@@ -1,0 +1,544 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processed_at": "2025-07-28T09:10:09.173614"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 4,
+      "section_title": "Adobe Illustrator, and",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 4,
+      "section_title": "PostScript and EPS files",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 5,
+      "section_title": "and quick downloading over the Internet.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 19,
+      "section_title": "Adobe PDF And Email.)",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 9,
+      "section_title": "select on this tab, and no bookmarks are created.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 5,
+      "section_title": "Includes active links and hypertext in the PDF.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "CSS, and JavaScript.",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "orientation, and margins.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "Compliance Standard",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 6,
+      "section_title": "copy text boxes and paste them on another page.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 7,
+      "section_title": "select a thumbnail and copy it as needed.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 12,
+      "section_title": "and so on.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 27,
+      "section_title": "vector objects, and tables in a PDF. The  Select  tool",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 1,
+      "section_title": "HTML, and Microsoft Word.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 4,
+      "section_title": "online tools such as Word to PDF and Convert PDF.",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 7,
+      "section_title": "JPEG and JPEG 2000 conversion settings",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 7,
+      "section_title": "get JPEG and JPEG 2000 options. Select the",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "3. Right-click the selection, and choose Save Selection As.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 11,
+      "section_title": "to fill in flat forms.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "As  in macOS) and rename the file.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 0,
+      "section_title": "of PDF forms",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 9,
+      "section_title": "2. Select Forms on the left.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 3,
+      "section_title": "Policy, and the Adobe AI Ethics page, respectively.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "section_title": "(Content Usage and Handling Practices).",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 8,
+      "section_title": "Account and login",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 15,
+      "section_title": "PDF and open it in Acrobat to access the AI tools.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 1,
+      "section_title": "accurately from tables and complex documents.",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 0,
+      "section_title": "timeline of questions and generated answers.",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 12,
+      "section_title": "1. Launch Acrobat and sign in as an administrator.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 15,
+      "section_title": "the statuses and notifications.",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 20,
+      "section_title": "Set privileges and permissions for others",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 11,
+      "section_title": "open and view the signed PDF file.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "section_title": "11.   Review and Send",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 9,
+      "section_title": "4. . (Optional) Add yourself and/or CC'd parties",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 13,
+      "section_title": "9. Prepare the Agreement and Add Fields:",
+      "importance_rank": 5
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 14,
+      "section_title": "File > Print, and click  Summarize Comments .",
+      "importance_rank": 1
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 10,
+      "section_title": "3. Right-click within the selection, and choose Group.",
+      "importance_rank": 2
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 10,
+      "section_title": "1. Right-click the grouped selection, and choose Ungroup.",
+      "importance_rank": 3
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 14,
+      "section_title": "and markups in PDFs.",
+      "importance_rank": 4
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 14,
+      "section_title": "and existing comments.",
+      "importance_rank": 5
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 0,
+      "section_title": "\u2022    Create and Share the Link",
+      "importance_rank": 1
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "\u2022    Create and Share the Link",
+      "importance_rank": 2
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022    Add Clients and Stakeholders",
+      "importance_rank": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 4,
+      "section_title": "Adobe Illustrator, and",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 4,
+      "section_title": "PostScript and EPS files",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 5,
+      "section_title": "and quick downloading over the Internet.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 19,
+      "section_title": "Adobe PDF And Email.)",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 9,
+      "section_title": "select on this tab, and no bookmarks are created.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 5,
+      "section_title": "Includes active links and hypertext in the PDF.",
+      "refined_text": "Water Sports: Cannes, Nice, and Saint-Tropez - Try jet skiing or parasailing for a thrill; Toulon - Dive into the underwater world with scuba diving excursions to explore wrecks; Cerb\u00e8re-Banyuls - Visit the marine reserve for an unforgettable diving experience; Mediterranean Coast - Charter a yacht or join a sailing tour to explore the coastline and nearby islands; Marseille - Go windsurfing or kitesurfing in the windy bays; Port Grimaud - Rent a paddleboard and explore the canals of this picturesque village; La Ciotat - Try snorkeling in the clear waters around the \u00cele Verte."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "CSS, and JavaScript.",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: Cooking Classes - Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. Wine Tours - The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries offer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "orientation, and margins.",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: Cooking Classes - Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. Wine Tours - The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries offer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "Compliance Standard",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: Cooking Classes - Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. Wine Tours - The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries offer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites."
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 6,
+      "section_title": "copy text boxes and paste them on another page.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 7,
+      "section_title": "select a thumbnail and copy it as needed.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 12,
+      "section_title": "and so on.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 27,
+      "section_title": "vector objects, and tables in a PDF. The  Select  tool",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 1,
+      "section_title": "HTML, and Microsoft Word.",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 4,
+      "section_title": "online tools such as Word to PDF and Convert PDF.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 7,
+      "section_title": "JPEG and JPEG 2000 conversion settings",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 7,
+      "section_title": "get JPEG and JPEG 2000 options. Select the",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "3. Right-click the selection, and choose Save Selection As.",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 11,
+      "section_title": "to fill in flat forms.",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "As  in macOS) and rename the file.",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 0,
+      "section_title": "of PDF forms",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 9,
+      "section_title": "2. Select Forms on the left.",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 3,
+      "section_title": "Policy, and the Adobe AI Ethics page, respectively.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 5,
+      "section_title": "(Content Usage and Handling Practices).",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 8,
+      "section_title": "Account and login",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 15,
+      "section_title": "PDF and open it in Acrobat to access the AI tools.",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 1,
+      "section_title": "accurately from tables and complex documents.",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 0,
+      "section_title": "timeline of questions and generated answers.",
+      "refined_text": "Water Sports: Cannes, Nice, and Saint-Tropez - Try jet skiing or parasailing for a thrill; Toulon - Dive into the underwater world with scuba diving excursions to explore wrecks; Cerb\u00e8re-Banyuls - Visit the marine reserve for an unforgettable diving experience; Mediterranean Coast - Charter a yacht or join a sailing tour to explore the coastline and nearby islands; Marseille - Go windsurfing or kitesurfing in the windy bays; Port Grimaud - Rent a paddleboard and explore the canals of this picturesque village; La Ciotat - Try snorkeling in the clear waters around the \u00cele Verte."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 12,
+      "section_title": "1. Launch Acrobat and sign in as an administrator.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 15,
+      "section_title": "the statuses and notifications.",
+      "refined_text": "General Packing Tips and Tricks: Layering - The weather can vary, so pack layers to stay comfortable in different temperatures; Versatile Clothing - Choose items that can be mixed and matched to create multiple outfits, helping you pack lighter; Packing Cubes - Use packing cubes to organize your clothes and maximize suitcase space; Roll Your Clothes - Rolling clothes saves space and reduces wrinkles; Travel-Sized Toiletries - Bring travel-sized toiletries to save space and comply with airline regulations; Reusable Bags - Pack a few reusable bags for laundry, shoes, or shopping; First Aid Kit - Include a small first aid kit with band-aids, antiseptic wipes, and any necessary medications; Copies of Important Documents - Make copies of your passport, travel insurance, and other important documents. Keep them separate from the originals."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 20,
+      "section_title": "Set privileges and permissions for others",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 11,
+      "section_title": "open and view the signed PDF file.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "section_title": "11.   Review and Send",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 9,
+      "section_title": "4. . (Optional) Add yourself and/or CC'd parties",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 13,
+      "section_title": "9. Prepare the Agreement and Add Fields:",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 14,
+      "section_title": "File > Print, and click  Summarize Comments .",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 10,
+      "section_title": "3. Right-click within the selection, and choose Group.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 10,
+      "section_title": "1. Right-click the grouped selection, and choose Ungroup.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 14,
+      "section_title": "and markups in PDFs.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 14,
+      "section_title": "and existing comments.",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 0,
+      "section_title": "\u2022    Create and Share the Link",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu (File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save). The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 2,
+      "section_title": "\u2022    Create and Share the Link",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    },
+    {
+      "document": "The Ultimate PDF Sharing Checklist.pdf",
+      "page_number": 1,
+      "section_title": "\u2022    Add Clients and Stakeholders",
+      "refined_text": "To fill text fields: From the left panel, select Fill in form fields, and then select the field where you want to add text. It displays a text field along with a toolbar. Select the text field again and enter your text. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. To edit the text, select the text box. Once you see the cursor and keypad, edit the text and then click elsewhere to enter. To change the text size, select A or A as required."
+    }
+  ]
+}

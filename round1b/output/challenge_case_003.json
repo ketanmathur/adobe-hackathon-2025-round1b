@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "processed_at": "2025-07-28T09:10:14.414877"
+  },
+  "extracted_sections": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "section_title": "Breakfast Burrito",
+      "importance_rank": 1
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "section_title": "Breakfast Quesadilla",
+      "importance_rank": 2
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 7,
+      "section_title": "Preheat oven to 375\u00b0F (190\u00b0C).",
+      "importance_rank": 3
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 7,
+      "section_title": "Breakfast Casserole",
+      "importance_rank": 4
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 8,
+      "section_title": "Breakfast Skillet",
+      "importance_rank": 5
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 7,
+      "section_title": "Bolinho de Bacalhau",
+      "importance_rank": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 1,
+      "section_title": "Turkey and Avocado Sandwich",
+      "importance_rank": 1
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 4,
+      "section_title": "Chicken and Avocado Salad",
+      "importance_rank": 2
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 5,
+      "section_title": "Mediterranean Chickpea Salad",
+      "importance_rank": 3
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 7,
+      "section_title": "Chicken and Pesto Sandwich",
+      "importance_rank": 4
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 8,
+      "section_title": "Turkey and Cranberry Wrap",
+      "importance_rank": 5
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 2,
+      "section_title": "Breakfast Burrito",
+      "refined_text": "Macaroni and Cheese Ingredients: 2 cups elbow macaroni, 2 cups milk, 2 tablespoons butter, 2 tablespoons flour, 2 cups shredded cheddar cheese, 1 teaspoon salt, 1/2 teaspoon pepper. Instructions: Cook macaroni according to package instructions, then drain. Melt butter in a saucepan, stir in flour to make a roux. Gradually add milk, stirring constantly until thickened. Add cheese, salt, and pepper, stir until melted. Combine cheese sauce with macaroni. Serve warm."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 4,
+      "section_title": "Breakfast Quesadilla",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: Cooking Classes - Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. Wine Tours - The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries offer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 7,
+      "section_title": "Preheat oven to 375\u00b0F (190\u00b0C).",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: Cooking Classes - Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. Wine Tours - The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries offer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 7,
+      "section_title": "Breakfast Casserole",
+      "refined_text": "In addition to dining at top restaurants, there are several culinary experiences you should consider: Cooking Classes - Many towns and cities in the South of France offer cooking classes where you can learn to prepare traditional dishes like bouillabaisse, ratatouille, and tarte trop\u00e9zienne. These classes are a great way to immerse yourself in the local culture and gain hands-on experience with regional recipes. Some classes even include a visit to a local market to shop for fresh ingredients. Wine Tours - The South of France is renowned for its wine regions, including Provence and Languedoc. Take a wine tour to visit vineyards, taste local wines, and learn about the winemaking process. Many wineries offer guided tours and tastings, giving you the opportunity to sample a variety of wines and discover new favorites."
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "page_number": 8,
+      "section_title": "Breakfast Skillet",
+      "refined_text": "Baba Ganoush Ingredients: 2 eggplants, 1/4 cup tahini, 1/4 cup lemon juice, 2 cloves garlic, 1/4 cup olive oil, 1 teaspoon salt. Instructions: Roast eggplants until soft, then peel and mash. Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor. Slowly add olive oil while blending until smooth. Serve with a drizzle of olive oil."
+    },
+    {
+      "document": "Dinner Ideas - Sides_1.pdf",
+      "page_number": 7,
+      "section_title": "Bolinho de Bacalhau",
+      "refined_text": "Baba Ganoush Ingredients: 2 eggplants, 1/4 cup tahini, 1/4 cup lemon juice, 2 cloves garlic, 1/4 cup olive oil, 1 teaspoon salt. Instructions: Roast eggplants until soft, then peel and mash. Blend mashed eggplant, tahini, lemon juice, minced garlic, and salt in a food processor. Slowly add olive oil while blending until smooth. Serve with a drizzle of olive oil."
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 1,
+      "section_title": "Turkey and Avocado Sandwich",
+      "refined_text": "Veggie Sushi Rolls Ingredients: 1 cup cooked sushi rice, 1/2 cucumber (julienned), 1/2 avocado (sliced), 1/4 cup carrot (julienned), 2 sheets nori (seaweed), soy sauce for dipping. Instructions: Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. Roll the nori tightly using the bamboo mat. Slice into bite-sized pieces and serve with soy sauce."
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 4,
+      "section_title": "Chicken and Avocado Salad",
+      "refined_text": "Veggie Sushi Rolls Ingredients: 1 cup cooked sushi rice, 1/2 cucumber (julienned), 1/2 avocado (sliced), 1/4 cup carrot (julienned), 2 sheets nori (seaweed), soy sauce for dipping. Instructions: Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. Roll the nori tightly using the bamboo mat. Slice into bite-sized pieces and serve with soy sauce."
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 5,
+      "section_title": "Mediterranean Chickpea Salad",
+      "refined_text": "Veggie Sushi Rolls Ingredients: 1 cup cooked sushi rice, 1/2 cucumber (julienned), 1/2 avocado (sliced), 1/4 cup carrot (julienned), 2 sheets nori (seaweed), soy sauce for dipping. Instructions: Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. Roll the nori tightly using the bamboo mat. Slice into bite-sized pieces and serve with soy sauce."
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 7,
+      "section_title": "Chicken and Pesto Sandwich",
+      "refined_text": "Macaroni and Cheese Ingredients: 2 cups elbow macaroni, 2 cups milk, 2 tablespoons butter, 2 tablespoons flour, 2 cups shredded cheddar cheese, 1 teaspoon salt, 1/2 teaspoon pepper. Instructions: Cook macaroni according to package instructions, then drain. Melt butter in a saucepan, stir in flour to make a roux. Gradually add milk, stirring constantly until thickened. Add cheese, salt, and pepper, stir until melted. Combine cheese sauce with macaroni. Serve warm."
+    },
+    {
+      "document": "Lunch Ideas.pdf",
+      "page_number": 8,
+      "section_title": "Turkey and Cranberry Wrap",
+      "refined_text": "Veggie Sushi Rolls Ingredients: 1 cup cooked sushi rice, 1/2 cucumber (julienned), 1/2 avocado (sliced), 1/4 cup carrot (julienned), 2 sheets nori (seaweed), soy sauce for dipping. Instructions: Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice over the nori, leaving a 1-inch border at the top. Arrange the cucumber, avocado, and carrot in a line along the bottom edge of the rice. Roll the nori tightly using the bamboo mat. Slice into bite-sized pieces and serve with soy sauce."
+    }
+  ]
+}
